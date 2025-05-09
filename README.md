@@ -28,16 +28,16 @@ Data cleaning, imputation, and normalization steps are covered in the EDA phase.
 ## Project Structure
 ```
 MLPS_Proj_repo-main/
-├── Dataset/                        # Contains original and preprocessed data
+├── Dataset/                       # Contains original and preprocessed data
 ├── EDA/                           # Scripts for Exploratory Data Analysis
 │   └── EDA_class.py
 ├── Models/                        # Implementation of ML models
 │   ├── mlp.py
 │   └── transformer.py
 ├── Model_weights/                 # Trained model weights (if applicable)
-├── MLPS_Project_Final.ipynb  # Main Jupyter Notebook
+├── MLPS_Project_Final.ipynb       # Main Jupyter Notebook
 ├── train.py                       # Training pipeline for models
-├── requirements.txt              # Project dependencies
+├── requirements.txt               # Project dependencies
 └── README.md
 ```
 
