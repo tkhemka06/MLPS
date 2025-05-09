@@ -26,7 +26,7 @@ Target variables:
 Data cleaning, imputation, and normalization steps are covered in the EDA phase.
 
 ## Project Structure
-
+```
 MLPS_Proj_repo-main/
 ├── Dataset/                        # Contains original and preprocessed data
 ├── EDA/                           # Scripts for Exploratory Data Analysis
@@ -39,7 +39,7 @@ MLPS_Proj_repo-main/
 ├── train.py                       # Training pipeline for models
 ├── requirements.txt              # Project dependencies
 └── README.md
-
+```
 
 ## Approach
 
